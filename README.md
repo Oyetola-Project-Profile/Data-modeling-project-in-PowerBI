@@ -1,2 +1,2 @@
 # Data-modeling-project-in-PowerBI
-Building a data model from a twenty-three (23) chaotic and messy tables. 
+Building a constellation of star schema data model from twenty-three (23) chaotic and messy tables. 
