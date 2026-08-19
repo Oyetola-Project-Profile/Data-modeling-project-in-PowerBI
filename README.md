@@ -14,7 +14,8 @@ Building a data model that consist of a galaxy of star schema from twenty-three 
 
 --------------------------------------------------------------------------------------------------------------
 ### Project Overview
-This project builds from raw source data, a data model (the back bone)  for report analysis. A lot of cleaning and transformation was done in order to have proper tables. After that, related tables were merged in creating the dimension and facts tables, and relationships were established between them. This is a very key aspect, as all filters ride on the relationships.
+This project builds from raw source data, a data model (the back bone)  for report analysis. A lot of cleaning and transformation was done in order to have proper tables. After that, related tables were merged in creating the dimension and facts tables, and relationships were established between them. This is a very key aspect, as all filters ride on the relationships.  
++ Showing below is the chaotic model from source
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Raw%20Model.png)
 
@@ -27,7 +28,9 @@ This project builds from raw source data, a data model (the back bone)  for repo
 
 --------------------------------------------------------------------------------------------------------------
 ### Dataset Explained
-The source data was from an excel workbook which had 23 worksheets. Each worksheet was converted into a query/table. Data about entities such as product and customers were scattered across several worksheets and had to be merged.
+The source data was from an excel workbook which had 23 worksheets. Each worksheet was converted into a query/table. Data about entities such as product and customers were scattered across several worksheets and had to be merged.  
+
++ An image of the workbook containing the 23 worksheets
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Raw%20excel%20dataset2.png)
 
@@ -45,7 +48,9 @@ Likewise, data categorization and a uniform date format was applied ("yyyy-mm-dd
 
 --------------------------------------------------------------------------------------------------------------
 ### Dimension Tables
-Dimension tables are descriptive in nature. Related  tables with similar attributes were merged in creating each dimension table. The dim_clients table, dim_product table and dim_geo table, to mention a few, are the dimension tables created.
+Dimension tables are descriptive in nature. Related  tables with similar attributes were merged in creating each dimension table. The dim_clients table, dim_product table and dim_geo table, to mention a few, are the dimension tables created.  
+
++ The figure below shows grouping related tables in creating the dim_client and dim_product tables
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Grouping%20related%20tables.png)
 
