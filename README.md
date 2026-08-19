@@ -53,21 +53,28 @@ Dimension tables are descriptive in nature. Related  tables with similar attribu
 ### Fact Tables  
 Fact tables are transactional. There are more than three fact table in this project, and in creating them, an eye had to be place on the grand total in order to forestall duplicating or truncating the figure.  
 
++ Below is the final constellation of star schema
+
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Final%20model.png)
 
 --------------------------------------------------------------------------------------------------------------
 ### Building Relationships  
-The project was based on a star schema and several one to many (1-*) relationships were established between dimension and fact tables. However, in creating the row-level security, a one to one relationship had to be established between the security tables and the dim_client table.  The dim_geo table served as a role-playing dimension table to the fact_sales table, with one the relationship being inactive.
+The project was based on a star schema and several one to many (1-*) relationships were established between dimension and fact tables. However, in creating the row-level security, a one to one relationship had to be established between the security tables and the dim_client table.  The dim_geo table served as a role-playing dimension table to the fact_sales table, with one the relationship being inactive.  
+
++ Below is the Manage Relationship dialogue box showing the several relationships created
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Manage%20relationship.png)  
 
-Below is the dim_geo table serving as a role playing dimension table
++ Below is the dim_geo table serving as a role playing dimension table
+  
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Role%20playing%20dimension.png)
 
 
 --------------------------------------------------------------------------------------------------------------
 ### Basic Measures and Visuals  
-Building reports was not the primary aim of the project, therefore, only basic table and card visuals were created for demonstration purposes. ALL measures created were inserted into a table called "_measures" which can be seen at the top of the data pane in report view.
+Building reports was not the primary aim of the project, therefore, only basic table and card visuals were created for demonstration purposes. ALL measures created were inserted into a table called "_measures" which can be seen at the top of the data pane in report view.  
+
++ Below is the depiction of the visual created
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Basic%20visual%20.png)
 
@@ -77,7 +84,9 @@ Stakeholders wanted two (2) row-level securities for:
 + Client managers
 + Regional managers
 
-Once the relationships were established between the security tables and the dim_client table, the two roles were created and DAX was used in retuning the values relevant to each users. The roles were tested to confirm operability.
+Once the relationships were established between the security tables and the dim_client table, the two roles were created and DAX was used in retuning the values relevant to each users. The roles were tested to confirm operability.  
+
++ Showing below are the DAX for the two (2) row-level securities
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Dax%20code2.png)
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Dax%20code3.png)
