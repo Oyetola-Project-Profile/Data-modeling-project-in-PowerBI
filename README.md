@@ -109,5 +109,5 @@ Once the relationships were established between the security tables and the dim_
 
 <details>
 <summary>Click to expand</summary>
-More hidden content here...
+Thanks for visiting...
 </details>
