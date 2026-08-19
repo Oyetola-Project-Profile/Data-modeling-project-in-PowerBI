@@ -57,9 +57,10 @@ Fact tables are transactional. There are more than three fact table in this proj
 
 --------------------------------------------------------------------------------------------------------------
 ### Building Relationships  
-The project was based on a star schema and several one to many (1-*) relationships were established between dimension and fact tables. However, in creating the row-level security, a one to one relationship had to be established between the security tables and the dim_client table.  
+The project was based on a star schema and several one to many (1-*) relationships were established between dimension and fact tables. However, in creating the row-level security, a one to one relationship had to be established between the security tables and the dim_client table.  The dim_geo table served as a role-playing dimension table to the fact_sales table, with one the relationship being inactive.
 
-[image manage relationship dialogue box]
+[image manage relationship dialogue box]  
+[image role-playing dimension table]
 
 
 --------------------------------------------------------------------------------------------------------------
@@ -70,10 +71,11 @@ Building reports was not the primary aim of the project, therefore, only basic t
 
 --------------------------------------------------------------------------------------------------------------
 ### Row Level Security  
-Stakeholders wanted two (2) row-level securities: 
+Stakeholders wanted two (2) row-level securities for: 
 + Client managers
 + Regional managers
-Once the relationships were established, DAX was used in retuning the values relevant to each users.
+
+Once the relationships were established between the security tables and the dim_client table, the two roles were created and DAX was used in retuning the values relevant to each users. The roles were tested to confirm operability.
 
 [image of DAX]
 
