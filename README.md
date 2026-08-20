@@ -24,13 +24,13 @@ This project builds from raw source data, a data model (the back bone)  for repo
 
 ### Youtube Videos  
 The entire project has been captured in video format and can be seen on Youtube with the following links:  
-[Understanding the business and the data, creating clients and product tables](https://youtu.be/LPAcVHMV_gE?si=d4VxU_ha8SvqHTLg)
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
++ [Understanding the business and the data, creating clients and product tables](https://youtu.be/LPAcVHMV_gE?si=d4VxU_ha8SvqHTLg)
++ [Creating sales, geo and junk dimension tables](https://youtu.be/MGYEjKRKXT4?si=f8_cp60LSoAAycxW)
++ [Creating the fact inventory table](https://youtu.be/tH_HVXLzfUM?si=KsBGfSq3Kktdh1Xf)
++ [Creating the campaign table and a factless fact table](https://youtu.be/ZXlEU3pGpWI?si=Dx6M_xGylMq4ceuo)
++ []()
++ []()
++ []()
 
 
 --------------------------------------------------------------------------------------------------------------
