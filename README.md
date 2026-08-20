@@ -125,5 +125,5 @@ Once the relationships were established between the security tables and the dim_
 
 <details>
 <summary>Click to expand</summary>
-Thanks for visiting...
+Thanks for visiting ...
 </details>
