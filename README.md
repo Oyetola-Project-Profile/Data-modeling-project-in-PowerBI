@@ -93,9 +93,9 @@ The project was based on a star schema and several one to many (1-*) relationshi
 
 --------------------------------------------------------------------------------------------------------------
 ### Basic Measures and Visuals  
-Building reports was not the primary aim of the project, therefore, only basic table and card visuals were created for demonstration purposes. ALL measures created were inserted into a table called "_measures" which can be seen at the top of the data pane in report view.  
+Building reports was not the primary aim of the project, therefore, only basic table and card visuals were created for demonstration purposes. All measures created were inserted into a table called "_measures" which can be seen at the top of the data pane in report view.  
 
-+ Below is the depiction of the visual created
++ Below is the depiction of the visuals created
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Basic%20visual%20.png)
 
