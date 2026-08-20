@@ -125,5 +125,5 @@ Once the relationships were established between the security tables and the dim_
 
 <details>
 <summary>Click to expand</summary>
-[This project was done in 2022](https://github.com/OyetolaAppdb/datasharing/tree/master)
+Thanks for visiting my repo...
 </details>
