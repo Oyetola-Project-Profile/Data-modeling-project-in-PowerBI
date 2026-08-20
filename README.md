@@ -22,13 +22,14 @@ This project builds from raw source data, a data model (the back bone)  for repo
 --------------------------------------------------------------------------------------------------------------
 
 ### Tools & Technologies
+- Excel
 - Power BI
 - Power Query
 - DAX
 
 --------------------------------------------------------------------------------------------------------------
 ### Dataset Explained
-The source data was from an excel workbook which had 23 worksheets. Each worksheet was converted into a query/table. Data about entities such as product and customers were scattered across several worksheets and had to be merged.  
+The source data was from an excel workbook which had 23 worksheets. Each worksheet was converted into a query/table. Data about entities such as product, customers and sales were scattered across several worksheets and had to be identified before  merging them togeter.  
 
 + An image of the workbook containing the 23 worksheets
 
@@ -43,7 +44,7 @@ Uniformity and consistency is important in any project for all collaborators. Be
 + Identification of keys - _id (for source data) and _key (for Surrogate keys)
 
 
-Likewise, data categorization and a uniform date format was applied ("yyyy-mm-dd") in the model
+In addition, data categorization and a uniform date format was applied ("yyyy-mm-dd") in the model
 
 
 --------------------------------------------------------------------------------------------------------------
