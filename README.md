@@ -27,10 +27,11 @@ The entire project has been captured in video format and can be seen on Youtube 
 + [Understanding the business and the data, creating clients and product tables](https://youtu.be/LPAcVHMV_gE?si=d4VxU_ha8SvqHTLg)
 + [Creating sales, geo and junk dimension tables](https://youtu.be/MGYEjKRKXT4?si=f8_cp60LSoAAycxW)
 + [Creating the fact inventory table](https://youtu.be/tH_HVXLzfUM?si=KsBGfSq3Kktdh1Xf)
-+ [Creating the campaign table and a factless fact table](https://youtu.be/ZXlEU3pGpWI?si=Dx6M_xGylMq4ceuo)
-+ []()
-+ []()
-+ []()
++ [Creating the campaign table and a factless fact tables](https://youtu.be/ZXlEU3pGpWI?si=Dx6M_xGylMq4ceuo)
++ [Creating the order process table](https://youtu.be/Br9MZ0tbNvI?si=7F52GKigXZImKK03)
++ [Creating the sales target and security tables](https://youtu.be/_NAxj4OE5Ag?si=TB9Z7TzD-Xj6wb5d)
++ [Reconfirming standards, applying data category, date format and creating dimension date table](https://youtu.be/UNWFFIKmvOY?si=E7qBKHmiREAXq7gJ)
++ [Build basic measures, implement and test two (2) row level securities](https://youtu.be/ao5HS47zF90?si=_tAyGyvwge8Xj6_X)
 
 
 --------------------------------------------------------------------------------------------------------------
