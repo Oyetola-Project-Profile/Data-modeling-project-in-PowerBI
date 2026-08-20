@@ -3,6 +3,7 @@ Building a data model that consist of a galaxy of star schema from twenty-three 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Youtube Videos](#youtube-videos)
 - [Tools & Technologies](#tools--technologies)
 - [Dataset Explained](#dataset-explained)
 - [Standards Applied](#standards-applied)
@@ -18,6 +19,19 @@ This project builds from raw source data, a data model (the back bone)  for repo
 + Showing below is the chaotic model from source
 
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Raw%20Model.png)
+
+--------------------------------------------------------------------------------------------------------------
+
+### Youtube Videos  
+The entire project has been captured in video format and can be seen on Youtube with the following links:  
+[Understanding the business and the data, creating clients and product tables](https://youtu.be/LPAcVHMV_gE?si=d4VxU_ha8SvqHTLg)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
 
 --------------------------------------------------------------------------------------------------------------
 
