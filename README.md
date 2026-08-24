@@ -113,7 +113,7 @@ Once the relationships were established between the security tables and the dim_
 ![Alt text](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/images/Dax%20code3.png)
 
 
---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 
 
 
