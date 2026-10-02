@@ -31,16 +31,18 @@ The entire project has been captured in video format and can be seen on Youtube 
 + [Creating the order process table](https://youtu.be/Br9MZ0tbNvI?si=7F52GKigXZImKK03)
 + [Creating the sales target and security tables](https://youtu.be/_NAxj4OE5Ag?si=TB9Z7TzD-Xj6wb5d)
 + [Reconfirming standards, applying data category, date format and creating dimension date table](https://youtu.be/UNWFFIKmvOY?si=E7qBKHmiREAXq7gJ)
-+ [Build basic measures, implement and test two (2) row level securities](https://youtu.be/ao5HS47zF90?si=_tAyGyvwge8Xj6_X)
++ [Build basic measures, implement and test two (2) row-level security](https://youtu.be/ao5HS47zF90?si=_tAyGyvwge8Xj6_X)
 
 
 --------------------------------------------------------------------------------------------------------------
 
 ### Tools & Technologies
+- PowerPoint
 - Excel
 - Power BI
 - Power Query
 - DAX
+  
 
 --------------------------------------------------------------------------------------------------------------
 ### Dataset Explained
