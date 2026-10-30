@@ -12,6 +12,7 @@ Building a data model that consist of a galaxy of star schema from twenty-three 
 - [Building Relationships](#building-relationships)
 - [Basic Measures and Visuals](#basic-measures-and-visuals)
 - [Row Level Security](#row-level-security)
+- [Download the completed file](#Download-the-completed-file)
 
 --------------------------------------------------------------------------------------------------------------
 ### Project Overview
@@ -116,9 +117,9 @@ Once the relationships were established between the security tables and the dim_
 
 
 ---------------------------------------------------------------------------------------------------------------
+### Download the completed file
 
-
-
+[Complete Project File](https://github.com/Oyetola-Project-Profile/Data-modeling-project-in-PowerBI/blob/main/Project-file/Completed.pbix)
 
 
 
