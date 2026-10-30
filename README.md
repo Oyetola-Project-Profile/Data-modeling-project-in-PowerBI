@@ -1,5 +1,5 @@
 # Data-modeling-project-in-PowerBI
-Building a data model that consist of a galaxy of star schema from twenty-three (23) chaotic and messy tables. 
+Building a data model that consists of a galaxy of star schemas from twenty-three (23) chaotic and messy tables. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
