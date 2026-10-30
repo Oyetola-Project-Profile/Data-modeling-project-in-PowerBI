@@ -61,7 +61,7 @@ Uniformity and consistency is important in any project for all collaborators. Be
 + Identification of keys - _id (for source data) and _key (for Surrogate keys)
 
 
-In addition, data categorization and a uniform date format was applied ("yyyy-mm-dd") in the model
+In addition, data categorization and a uniform date format ("yyyy-mm-dd") were applied  in the model
 
 
 --------------------------------------------------------------------------------------------------------------
